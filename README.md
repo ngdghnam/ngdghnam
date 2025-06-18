@@ -17,9 +17,15 @@
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=ngdghnam&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ngdghnam&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngdghnam&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngdghnam&theme=monokai)
+<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ngdghnam&theme=monokai)
+<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ngdghnam&theme=monokai)
+<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngdghnam&theme=monokai)
+<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ngdghnam&theme=monokai&utcOffset=8)
 
 ### ✍️Random Dev Quote
 
