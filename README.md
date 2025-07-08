@@ -2,7 +2,7 @@
 
 # Hi 👋 My name is Nguyễn Đặng Hoài Nam
 
-## Fullstack Developer & Data Engineer
+## Fullstack Engineer & Project Manager
 
 - 🌍  I'm based in Ho Chi Minh City
 - ✉️  You can contact me at [stghoainam4002@gmail.com](mailto:stghoainam4002@gmail.com)
